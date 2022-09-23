@@ -1,8 +1,9 @@
 # Godot 3D Game Development
+You can follow this link for code bundles: https://rebrand.ly/7rif7de
 
 You can create great video games ... Godot is the way!
 
-This is the repository for Godot 3D Game Development, published by BPB Publications. You can follow this link for code bundles: https://rebrand.ly/7rif7de
+This is the repository for Godot 3D Game Development, published by BPB Publications. 
 
 ## About the Book
 The impressive Godot game engine allows any programmer to start making 2D and 3D games without any specialized language requirements. In addition, this game engine makes it simple to design video games, create interactive and animated applications, and utilize them in advertising campaigns.
